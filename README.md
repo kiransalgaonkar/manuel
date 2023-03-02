@@ -1,1 +1,3 @@
 # manuel
+*ki*
+*kia*
